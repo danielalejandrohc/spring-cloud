@@ -1,4 +1,0 @@
-app:
-  username: default-foo
-  password: somedummypassword
-  client: default-client-foo

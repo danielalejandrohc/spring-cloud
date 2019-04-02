@@ -1,0 +1,4 @@
+app:
+  username: foo
+  password: somedummypassword
+  client: clientfoo
